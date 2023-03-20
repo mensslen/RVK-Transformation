@@ -1,2 +1,8 @@
 # RVK_Transformation
 Flattens RVK Classification for Annif software.
+
+More information about Annif can be found here:
+https://github.com/NatLibFi/Annif
+
+RVK as XML file can be found here:
+https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online/rvk-download
