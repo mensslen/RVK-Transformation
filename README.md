@@ -1,4 +1,4 @@
-# RVK_Transformation
+# RVK-Transformation
 Flattens RVK Classification for Annif software.
 
 More information about Annif can be found here:
